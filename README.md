@@ -572,13 +572,6 @@ Thanks goes to these amazing people:
         </a>
     </td>
             <td align="center">
-        <a href="https://github.com/darthwade">
-            <img src="https://avatars.githubusercontent.com/u/2220776?v=4" width="100" alt="darthwade"/>
-            <br />
-            <sub><b>darthwade</b></sub>
-        </a>
-    </td>
-            <td align="center">
         <a href="https://github.com/aniruddhaadak80">
             <img src="https://avatars.githubusercontent.com/u/127435065?v=4" width="100" alt="aniruddhaadak80"/>
             <br />
@@ -592,8 +585,6 @@ Thanks goes to these amazing people:
             <sub><b>chaosreload</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/paulovitorcl">
             <img src="https://avatars.githubusercontent.com/u/47778440?v=4" width="100" alt="paulovitorcl"/>
@@ -601,6 +592,8 @@ Thanks goes to these amazing people:
             <sub><b>paulovitorcl</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/gbsierra">
             <img src="https://avatars.githubusercontent.com/u/182822327?v=4" width="100" alt="gbsierra"/>
@@ -636,8 +629,6 @@ Thanks goes to these amazing people:
             <sub><b>divijgera</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/daxp472">
             <img src="https://avatars.githubusercontent.com/u/177292922?v=4" width="100" alt="daxp472"/>
@@ -645,6 +636,8 @@ Thanks goes to these amazing people:
             <sub><b>daxp472</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/Som-0619">
             <img src="https://avatars.githubusercontent.com/u/143019791?v=4" width="100" alt="Som-0619"/>
@@ -680,8 +673,6 @@ Thanks goes to these amazing people:
             <sub><b>F4tal1t</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/MestreY0d4-Uninter">
             <img src="https://avatars.githubusercontent.com/u/241404605?v=4" width="100" alt="MestreY0d4-Uninter"/>
@@ -689,6 +680,8 @@ Thanks goes to these amazing people:
             <sub><b>MestreY0d4-Uninter</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/qorexdevs">
             <img src="https://avatars.githubusercontent.com/u/277760369?v=4" width="100" alt="qorexdevs"/>
@@ -724,8 +717,6 @@ Thanks goes to these amazing people:
             <sub><b>Maharshi-Project</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/udit-rawat">
             <img src="https://avatars.githubusercontent.com/u/84604012?v=4" width="100" alt="udit-rawat"/>
@@ -733,6 +724,8 @@ Thanks goes to these amazing people:
             <sub><b>udit-rawat</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/muddlebee">
             <img src="https://avatars.githubusercontent.com/u/8139783?v=4" width="100" alt="muddlebee"/>
@@ -768,8 +761,6 @@ Thanks goes to these amazing people:
             <sub><b>hcombalicer</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/CuriousHet">
             <img src="https://avatars.githubusercontent.com/u/102606191?v=4" width="100" alt="CuriousHet"/>
@@ -777,6 +768,8 @@ Thanks goes to these amazing people:
             <sub><b>CuriousHet</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/Dipxssi">
             <img src="https://avatars.githubusercontent.com/u/151428630?v=4" width="100" alt="Dipxssi"/>
@@ -812,8 +805,6 @@ Thanks goes to these amazing people:
             <sub><b>wahajahmed010</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/Ade20boss">
             <img src="https://avatars.githubusercontent.com/u/168012500?v=4" width="100" alt="Ade20boss"/>
@@ -821,6 +812,8 @@ Thanks goes to these amazing people:
             <sub><b>Ade20boss</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/MichaelGurevich">
             <img src="https://avatars.githubusercontent.com/u/105605801?v=4" width="100" alt="MichaelGurevich"/>
